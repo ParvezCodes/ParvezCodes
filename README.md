@@ -1,4 +1,4 @@
-![MasterHead](https://visme.co/blog/wp-content/uploads/2021/08/Animation-Styles-for-Beginners-header.jpg)
+![MasterHead](https://github.com/ParvezCodes/ParvezCodes/blob/main/banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Parvez Khan</h1>
 <h3 align="center">Building user-centric web interfaces with code and creativity.</h3>
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47drp0xpg3t3rx71av8ycc40ac4e386na7gjhhcifk&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" alt="codding">
