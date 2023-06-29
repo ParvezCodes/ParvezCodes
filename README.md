@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvezcodes&label=Profile%20views&color=0e75b6&style=flat" alt="parvezcodes" /> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **React,Fullstack**
+- 🌱 I’m currently learning **Fullstack**
 
 - 🤝 I’m looking for help with **Back-end Development**
 
