@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/ParvezCodes/ParvezCodes/blob/main/banner.png?raw=true)
+![MasterHead](https://github.com/ParvezCodes/ParvezCodes/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Parvez Khan</h1>
 <h3 align="center">Building user-centric web interfaces with code and creativity.</h3>
 
