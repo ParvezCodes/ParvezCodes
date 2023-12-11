@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvezcodes&label=Profile%20views&color=0e75b6&style=flat" alt="parvezcodes" /> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **MERN**
 
 - 🌱 I’m currently learning **Fullstack**
 
 - 🤝 I’m looking for help with **Back-end Development**
 
-- 💬 Ask me about **Front-End**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **parvez0035@gmail.com**
 
